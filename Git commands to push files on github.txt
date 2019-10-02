@@ -1,0 +1,9 @@
+1. ls
+2. cd 
+3. git init
+4. git remote add origin <git Link>
+5. git remote -v
+6. git add .
+7. git commit -m "Message"
+8. git push origin master
+Then provide credentials and now you are done..
