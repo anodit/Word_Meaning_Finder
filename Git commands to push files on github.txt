@@ -9,7 +9,7 @@
 Then provide credentials and now you are done..
 
 
-# Explation of the above commands...
+# Explanation of the above commands...
 
 ls- List all the files in the current directory
 
